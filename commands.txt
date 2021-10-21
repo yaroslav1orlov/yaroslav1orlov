@@ -1,0 +1,11 @@
+﻿Ctrl + O - спрятать или показать панели
+cls - очистка экрана
+Alt + F8 - история
+cd - change directory
+--
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yaroslav1orlov/JS.git
+git push -u origin main
